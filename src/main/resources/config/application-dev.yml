@@ -38,7 +38,7 @@ spring:
   datasource:
     type: com.zaxxer.hikari.HikariDataSource
     url: jdbc:postgresql://localhost:5432/ecommerceApp
-    username: ecommerceApp
+    username: dev
     password:
     hikari:
       poolName: Hikari
